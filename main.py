@@ -7,3 +7,4 @@ if name == "Jimpan":
 else:
     print("Vem är det här?")
 print(f"Halloj från {name} igen")
+print("ashasgsagsa")
